@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    color: #ddd;
+  }
+  
+  th {
+    padding: 10px;
+    border: 2px solid darkgray;
+    background-color: aquamarine;
+    color:black;
+  }
+
+  td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    color:wheat;
+  }
+  
+  thead {
+    background-color: #f2f2f2;
+  }
+  
+  input {
+    margin: 10px 0;
+    padding: 8px;
+    width: 300px;
+  }
+  
+  button {
+    margin-left: 10px;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  h1{
+    color: wheat;
+  }
